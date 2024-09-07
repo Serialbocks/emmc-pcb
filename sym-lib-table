@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "thgbmng5d1lbail-voltlog")(type "KiCad")(uri "${KIPRJMOD}/thgbmng5d1lbail-voltlog.kicad_sym")(options "")(descr ""))
+)
